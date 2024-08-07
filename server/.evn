@@ -1,0 +1,4 @@
+MONGO_URL =
+  "ongodb+srv://erasimzaidi:<asim@1100>@ssmt-solution.lpclw.mongodb.net";
+PORT = 4000;
+
